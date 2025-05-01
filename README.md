@@ -2,11 +2,11 @@
 فروشگاه اینترنتی بر پایه فریمورک جنگو و طراحی قالب سایت با استفاده از بوت استرپ 4
 
 # نمونه صفحهات
-[product-screenshot1]
-[product-screenshot2]
-[product-screenshot3]
-[product-screenshot4]
-[product-screenshot5]
+![DjangoShop Screen Shot1][product-screenshot1]
+![DjangoShop Screen Shot2][product-screenshot2]
+![DjangoShop Screen Shot3][product-screenshot3]
+![DjangoShop Screen Shot4][product-screenshot4]
+![DjangoShop Screen Shot5][product-screenshot5]
 
 # ویژگی ها
 
