@@ -19,9 +19,7 @@
 
 # نصب و راه اندازی
 
-- اول از همه python رو روی سیستم نصب میکنین
 - pip install -r requirements
-- 
 - python manage.py runserver
 
 
